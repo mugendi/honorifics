@@ -18,5 +18,14 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mugendi/honorifics.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mugendi/honorifics/issues"
+  },
+  "homepage": "https://github.com/mugendi/honorifics#readme"
 }
