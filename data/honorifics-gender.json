@@ -1,0 +1,29 @@
+{
+    "female": [
+        "Mrs",
+        "Miss",
+        "Ms.",
+        "Mistress",
+        "Madam",
+        "Maam",
+        "Dame",
+        "Lady",
+        "Duchess",
+        "Princess"
+    ],
+
+    "male": [
+        "Mr",
+        "Master",
+        "Mister",
+        "Esquire",
+        "Sir",
+        "Sire",
+        "Lord",
+        "Duke",
+        "Prince",
+        "Gentleman",
+        "Esq", 
+        "Esquire"
+    ]
+}

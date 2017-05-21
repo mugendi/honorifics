@@ -1,0 +1,22 @@
+{
+  "name": "honorifics",
+  "version": "1.0.0",
+  "description": "Find & Extract honorifics, prefixes & name suffixes. Use extracted data to suggest gender.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "names",
+    "suffix",
+    "prefix",
+    "salutation",
+    "honorific",
+    "gender"
+  ],
+  "author": "Anthony Mugendi <ngurumugz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
